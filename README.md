@@ -14,6 +14,7 @@ The system provides an information management solution for a beauty salon, suppo
 - **UI:** Java Swing (GUI)
 - **Data Storage:** Text-based (CSV)
 - **External Libraries:** [XChart](https://knowm.org/open-source/xchart/) for graphing in GUI version
+
 			   [MigLayout](https://search.maven.org/) for designing complex user interfaces
 
 ## System Users
@@ -41,15 +42,15 @@ The system provides an information management solution for a beauty salon, suppo
 - All entities such as Employees, Clients, Treatments, Service Types, Scheduled Appointments, and Pricing are persistently stored and editable through the UI.
 
 ## Tests
-- A few functionalities are tested what is visible in folder testovi. The one example of test classes is MenadzerKlijentTest that tests MenadzerKlijent class. Using JUnit 5, it performs the following types of tests:
+A few functionalities are tested what is visible in folder testovi. The one example of test classes is MenadzerKlijentTest that tests MenadzerKlijent class. Using JUnit 5, it performs the following types of tests:
 
-File reading and formatting (procitaj)
+- File reading and formatting (procitaj)
 
-Client data updating (azuriraj)
+- Client data updating (azuriraj)
 
-Client deletion from internal map and file (izbrisi)
+- Client deletion from internal map and file (izbrisi)
 
-Writing client data to a file (upisiUFajl)
+- Writing client data to a file (upisiUFajl)
 
-Loyalty card eligibility based on spending (traziKarticuLojalnosti)
+- Loyalty card eligibility based on spending (traziKarticuLojalnosti)
 
