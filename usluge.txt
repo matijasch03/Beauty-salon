@@ -1,0 +1,6 @@
+MASAŽA, relaks masaža, 45, 2000
+MASAŽA, sportska masaža, 75, 2500
+MANIKIR, francuski manikir, 50, 1500
+MANIKIR, gel lak, 80, 1600
+MANIKIR, spa manikir, 90, 2000
+PEDIKIR, spa pedikir, 45, 1600

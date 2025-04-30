@@ -1,0 +1,5 @@
+koz1, Sima, Simić, muški, 022, Fruškogorska 45, loz, 6, 5, 2000, MANIKIR;MASAŽA, 15550, 23;26;28
+koz2, Žika, Žikić, muški, 022, Ivanjdanska 15, loz, 6, 5, 2000, MANIKIR;MASAŽA;PEDIKIR, 11175, 21;25
+koz3, Jovana, Jovanović, ženski, 022, Zlatka Šnajdera 7, loz, 6, 5, 2000, MANIKIR, 7100, 27
+rec, Pera, Perić, muški, 022021, Sremska 13, loz, 5, 12, 2000
+men1, Nikola, Nikolić, muški, 0150121, Kosovska 65, loz, 7, 10, 1000
