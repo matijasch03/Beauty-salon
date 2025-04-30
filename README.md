@@ -13,8 +13,7 @@ The system provides an information management solution for a beauty salon, suppo
 - **Language:** Java 1.8
 - **UI:** Java Swing (GUI)
 - **Data Storage:** Text-based (CSV)
-- **External Libraries:** [XChart](https://knowm.org/open-source/xchart/) for graphing in GUI version
-
+- **External Libraries:** [XChart](https://knowm.org/open-source/xchart/) for graphing in GUI version  
 			   [MigLayout](https://search.maven.org/) for designing complex user interfaces
 
 ## System Users
